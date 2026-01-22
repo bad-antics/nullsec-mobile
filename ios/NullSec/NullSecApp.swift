@@ -538,7 +538,7 @@ struct SettingsView: View {
                     
                     Link("GitHub", destination: URL(string: "https://github.com/bad-antics")!)
                     Link("Discord", destination: URL(string: "https://discord.gg/killers")!)
-                    Link("Twitter", destination: URL(string: "https://twitter.com/AnonAntics")!)
+                    Link("GitHub", destination: URL(string: "https://github.com/bad-antics")!)
                 }
             }
             .navigationTitle("Settings")

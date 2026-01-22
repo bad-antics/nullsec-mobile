@@ -12,7 +12,7 @@ bad-antics, bad-antics, NullSec Framework, mobile security suite
 ### Security Toolkit for Android & iOS
 
 [![Discord](https://img.shields.io/badge/🔑_GET_KEYS-discord.gg/killers-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/killers)
-[![Twitter](https://img.shields.io/badge/Twitter-bad-antics-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bad-antics)
+[![GitHub](https://img.shields.io/badge/GitHub-bad--antics-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bad-antics)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/bad-antics/nullsec-mobile)
 [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/bad-antics/nullsec-mobile)
 
@@ -216,7 +216,7 @@ This app is for **authorized security testing** and **educational purposes** onl
 [![GitHub](https://img.shields.io/badge/GitHub-bad--antics-181717?style=for-the-badge&logo=github)](https://github.com/bad-antics)
 [![Discord](https://img.shields.io/badge/🔑_DISCORD-discord.gg/killers-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/killers)
 
-**© 2025-2026 [bad-antics](https://twitter.com/bad-antics)**
+**© 2025-2026 [bad-antics](https://github.com/bad-antics)**
 
 ### 🔓 **[JOIN DISCORD FOR PREMIUM KEYS](https://discord.gg/killers)** 🔓
 
