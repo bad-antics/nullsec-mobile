@@ -537,7 +537,7 @@ struct SettingsView: View {
                     }
                     
                     Link("GitHub", destination: URL(string: "https://github.com/bad-antics")!)
-                    Link("Discord", destination: URL(string: "https://x.com/AnonAntics")!)
+                    Link("Twitter", destination: URL(string: "https://x.com/AnonAntics")!)
                     Link("GitHub", destination: URL(string: "https://github.com/bad-antics")!)
                 }
             }

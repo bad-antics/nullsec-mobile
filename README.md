@@ -214,10 +214,10 @@ This app is for **authorized security testing** and **educational purposes** onl
 ### 💀 NullSec Mobile - Part of the NullSec Framework
 
 [![GitHub](https://img.shields.io/badge/GitHub-bad--antics-181717?style=for-the-badge&logo=github)](https://github.com/bad-antics)
-[![X/Twitter](https://img.shields.io/badge/🔑_DISCORD-x.com/AnonAntics-5865F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AnonAntics)
+[![X/Twitter](https://img.shields.io/badge/🔑_TWITTER-x.com/AnonAntics-5865F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AnonAntics)
 
 **© 2025-2026 [bad-antics](https://github.com/bad-antics)**
 
-### 🔓 **[JOIN DISCORD FOR PREMIUM KEYS](https://x.com/AnonAntics)** 🔓
+### 🔓 **[FOLLOW ON TWITTER FOR PREMIUM KEYS](https://x.com/AnonAntics)** 🔓
 
 </div>
