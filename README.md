@@ -11,7 +11,7 @@ bad-antics, bad-antics, NullSec Framework, mobile security suite
 
 ### Security Toolkit for Android & iOS
 
-[![X/Twitter](https://img.shields.io/badge/🔑_GET_KEYS-x.com/AnonAntics-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://x.com/AnonAntics)
+[![X/Twitter](https://img.shields.io/badge/🔑_GET_KEYS-x.com/AnonAntics-5865F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AnonAntics)
 [![GitHub](https://img.shields.io/badge/GitHub-bad--antics-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bad-antics)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/bad-antics/nullsec-mobile)
 [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/bad-antics/nullsec-mobile)
@@ -144,7 +144,7 @@ nullsec-mobile/
 
 ## 🔑 Premium Features
 
-Some features require a **premium key** from Discord:
+Some features require a **premium key** from Twitter/X:
 
 | Feature | Free | Premium |
 |---------|:----:|:-------:|
@@ -214,7 +214,7 @@ This app is for **authorized security testing** and **educational purposes** onl
 ### 💀 NullSec Mobile - Part of the NullSec Framework
 
 [![GitHub](https://img.shields.io/badge/GitHub-bad--antics-181717?style=for-the-badge&logo=github)](https://github.com/bad-antics)
-[![X/Twitter](https://img.shields.io/badge/🔑_DISCORD-x.com/AnonAntics-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://x.com/AnonAntics)
+[![X/Twitter](https://img.shields.io/badge/🔑_DISCORD-x.com/AnonAntics-5865F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AnonAntics)
 
 **© 2025-2026 [bad-antics](https://github.com/bad-antics)**
 
