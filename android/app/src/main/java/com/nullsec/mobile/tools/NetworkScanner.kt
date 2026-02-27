@@ -1,6 +1,6 @@
 // NullSec Mobile - Network Scanner Tool
 // https://github.com/bad-antics | @AnonAntics
-// discord.gg/killers
+// x.com/AnonAntics
 
 package com.nullsec.mobile.tools
 
@@ -147,7 +147,7 @@ class NetworkScanner(private val context: Context) {
 
         if (!isPremium && totalHosts < 254) {
             withContext(Dispatchers.Main) {
-                listener.onError("Free version limited to $totalHosts hosts. Get premium at discord.gg/killers")
+                listener.onError("Free version limited to $totalHosts hosts. Get premium at x.com/AnonAntics")
             }
         }
     }
@@ -278,7 +278,7 @@ class NetworkScanner(private val context: Context) {
 
         if (!isPremium && endPort > 1024) {
             withContext(Dispatchers.Main) {
-                listener.onError("Free version limited to ports 1-1024. Get premium at discord.gg/killers")
+                listener.onError("Free version limited to ports 1-1024. Get premium at x.com/AnonAntics")
             }
         }
     }
@@ -305,7 +305,7 @@ class NetworkScanner(private val context: Context) {
         
         sb.append("  ],\n")
         sb.append("  \"generated_by\": \"NullSec Mobile\",\n")
-        sb.append("  \"discord\": \"discord.gg/killers\"\n")
+        sb.append("  \"discord\": \"x.com/AnonAntics\"\n")
         sb.append("}")
         
         return sb.toString()

@@ -11,7 +11,7 @@ bad-antics, bad-antics, NullSec Framework, mobile security suite
 
 ### Security Toolkit for Android & iOS
 
-[![Discord](https://img.shields.io/badge/🔑_GET_KEYS-discord.gg/killers-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/killers)
+[![X/Twitter](https://img.shields.io/badge/🔑_GET_KEYS-x.com/AnonAntics-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://x.com/AnonAntics)
 [![GitHub](https://img.shields.io/badge/GitHub-bad--antics-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bad-antics)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/bad-antics/nullsec-mobile)
 [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/bad-antics/nullsec-mobile)
@@ -26,7 +26,7 @@ bad-antics, bad-antics, NullSec Framework, mobile security suite
                     [ MOBILE SECURITY SUITE ]
 ```
 
-### 🔓 **[Join discord.gg/killers](https://discord.gg/killers)** for premium features & support!
+### 🔓 **[Join x.com/AnonAntics](https://x.com/AnonAntics)** for premium features & support!
 
 </div>
 
@@ -155,7 +155,7 @@ Some features require a **premium key** from Discord:
 | Ad-Free | ❌ | ✅ |
 | Priority Support | ❌ | ✅ |
 
-### 🎮 **[Get Premium at discord.gg/killers](https://discord.gg/killers)**
+### 🎮 **[Get Premium at x.com/AnonAntics](https://x.com/AnonAntics)**
 
 ---
 
@@ -214,10 +214,10 @@ This app is for **authorized security testing** and **educational purposes** onl
 ### 💀 NullSec Mobile - Part of the NullSec Framework
 
 [![GitHub](https://img.shields.io/badge/GitHub-bad--antics-181717?style=for-the-badge&logo=github)](https://github.com/bad-antics)
-[![Discord](https://img.shields.io/badge/🔑_DISCORD-discord.gg/killers-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/killers)
+[![X/Twitter](https://img.shields.io/badge/🔑_DISCORD-x.com/AnonAntics-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://x.com/AnonAntics)
 
 **© 2025-2026 [bad-antics](https://github.com/bad-antics)**
 
-### 🔓 **[JOIN DISCORD FOR PREMIUM KEYS](https://discord.gg/killers)** 🔓
+### 🔓 **[JOIN DISCORD FOR PREMIUM KEYS](https://x.com/AnonAntics)** 🔓
 
 </div>

@@ -1,6 +1,6 @@
 // NullSec Mobile - iOS Main App
 // https://github.com/bad-antics | @AnonAntics
-// discord.gg/killers
+// x.com/AnonAntics
 
 import SwiftUI
 
@@ -31,7 +31,7 @@ class AppState: ObservableObject {
     }
     
     func validateLicense(key: String) -> Bool {
-        // License validation - get key from discord.gg/killers
+        // License validation - get key from x.com/AnonAntics
         return key.hasPrefix("NULLSEC-") && key.count == 32
     }
     
@@ -98,12 +98,12 @@ struct ContentView: View {
             }
             Button("Maybe Later", role: .cancel) {}
         } message: {
-            Text("Get unlimited access to all features!\n\n• Unlimited network scanning\n• Full port range (1-65535)\n• Advanced hash cracking\n• Ad-free experience\n\nGet your key at discord.gg/killers")
+            Text("Get unlimited access to all features!\n\n• Unlimited network scanning\n• Full port range (1-65535)\n• Advanced hash cracking\n• Ad-free experience\n\nGet your key at x.com/AnonAntics")
         }
     }
     
     func openDiscord() {
-        if let url = URL(string: "https://discord.gg/killers") {
+        if let url = URL(string: "https://x.com/AnonAntics") {
             UIApplication.shared.open(url)
         }
     }
@@ -200,7 +200,7 @@ struct NetworkScannerView: View {
     }
     
     func openDiscord() {
-        if let url = URL(string: "https://discord.gg/killers") {
+        if let url = URL(string: "https://x.com/AnonAntics") {
             UIApplication.shared.open(url)
         }
     }
@@ -515,7 +515,7 @@ struct SettingsView: View {
                     }
                     
                     Button("Get Key (Discord)") {
-                        if let url = URL(string: "https://discord.gg/killers") {
+                        if let url = URL(string: "https://x.com/AnonAntics") {
                             UIApplication.shared.open(url)
                         }
                     }
@@ -537,7 +537,7 @@ struct SettingsView: View {
                     }
                     
                     Link("GitHub", destination: URL(string: "https://github.com/bad-antics")!)
-                    Link("Discord", destination: URL(string: "https://discord.gg/killers")!)
+                    Link("Discord", destination: URL(string: "https://x.com/AnonAntics")!)
                     Link("GitHub", destination: URL(string: "https://github.com/bad-antics")!)
                 }
             }

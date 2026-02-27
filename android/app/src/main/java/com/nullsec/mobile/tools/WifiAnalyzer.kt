@@ -1,6 +1,6 @@
 // NullSec Mobile - WiFi Analyzer Tool
 // https://github.com/bad-antics | @AnonAntics
-// discord.gg/killers
+// x.com/AnonAntics
 
 package com.nullsec.mobile.tools
 
@@ -243,7 +243,7 @@ class WifiAnalyzer(private val context: Context) {
         
         sb.append("  ],\n")
         sb.append("  \"generated_by\": \"NullSec Mobile\",\n")
-        sb.append("  \"discord\": \"discord.gg/killers\"\n")
+        sb.append("  \"discord\": \"x.com/AnonAntics\"\n")
         sb.append("}")
         
         return sb.toString()

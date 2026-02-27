@@ -1,6 +1,6 @@
 // NullSec Mobile - Hash & Crypto Tools
 // https://github.com/bad-antics | @AnonAntics
-// discord.gg/killers
+// x.com/AnonAntics
 
 package com.nullsec.mobile.tools
 

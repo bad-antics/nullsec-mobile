@@ -1,6 +1,6 @@
 // NullSec Mobile - Main Activity
 // https://github.com/bad-antics | @AnonAntics
-// discord.gg/killers
+// x.com/AnonAntics
 
 package com.nullsec.mobile
 
@@ -118,7 +118,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun validateLicense(key: String): Boolean {
-        // License validation - get key from discord.gg/killers
+        // License validation - get key from x.com/AnonAntics
         // This is a placeholder for actual validation
         return key.startsWith("NULLSEC-") && key.length == 32
     }
@@ -132,7 +132,7 @@ class MainActivity : AppCompatActivity() {
                 "• Full port range (1-65535)\n" +
                 "• Advanced hash cracking\n" +
                 "• Ad-free experience\n\n" +
-                "Get your key at discord.gg/killers"
+                "Get your key at x.com/AnonAntics"
             )
             .setPositiveButton("Get Key") { _, _ ->
                 openDiscord()
@@ -144,7 +144,7 @@ class MainActivity : AppCompatActivity() {
     private fun openDiscord() {
         val intent = android.content.Intent(
             android.content.Intent.ACTION_VIEW,
-            android.net.Uri.parse("https://discord.gg/killers")
+            android.net.Uri.parse("https://x.com/AnonAntics")
         )
         startActivity(intent)
     }
@@ -176,7 +176,7 @@ class MainActivity : AppCompatActivity() {
                 "Developer: @AnonAntics\n\n" +
                 "Part of the NullSec Framework\n" +
                 "https://github.com/bad-antics\n\n" +
-                "Join us: discord.gg/killers"
+                "Join us: x.com/AnonAntics"
             )
             .setPositiveButton("OK", null)
             .show()

@@ -1,6 +1,6 @@
 // NullSec Mobile - Android Build Configuration
 // https://github.com/bad-antics | @AnonAntics
-// discord.gg/killers
+// x.com/AnonAntics
 
 plugins {
     id 'com.android.application'
